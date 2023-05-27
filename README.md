@@ -1,4 +1,3 @@
-![Resume generator (2)](https://github.com/Yashika24-U/AN-AUTOMATED-E-PLACEMENT-PORTAL/assets/97971705/93036c97-9f11-428d-a953-30120f496d2e)
 # AN AUTOMATED E-PLACEMENT PORTAL
 
 
@@ -43,27 +42,13 @@ ii> git clone https://github.com/Yashika24-U/AN-AUTOMATED-E-PLACEMENT-PORTAL
 
 
 PROJECT SNAPSHOTS
-
-Home Page
-
-![home](http://localhost/Placement-Portal-main/index.php)
-
-
-Login Page
-
-![Login Page](http://localhost/Placement-Portal-main/login.php)
+![Home](https://github.com/Yashika24-U/AN-AUTOMATED-E-PLACEMENT-PORTAL/assets/97971705/caa375fa-f514-4069-bd4c-f0ae56798f6b)
+![Resume generator (2)](https://github.com/Yashika24-U/AN-AUTOMATED-E-PLACEMENT-PORTAL/assets/97971705/d5eba536-db81-4dfe-bda5-8208ff96b084)
+![Login](https://github.com/Yashika24-U/AN-AUTOMATED-E-PLACEMENT-PORTAL/assets/97971705/774f9d2d-0ae0-49dd-b16c-423454051c72)!
+[Screenshot (36)](https://github.com/Yashika24-U/AN-AUTOMATED-E-PLACEMENT-PORTAL/assets/97971705/fe01bc32-5825-494b-8b88-ede0efbc3ff5)
+![Contact us](https://github.com/Yashika24-U/AN-AUTOMATED-E-PLACEMENT-PORTAL/assets/97971705/d0d8afcd-3306-4fbb-bdb2-68f625ebf2d2)
 
 
-Admin Panel
-
-![Admin](ocalhost/Placement-Portal-main/admin/index.php)
-
-Resume Generator
-
-![resume](ocalhost/Placement-Portal-main/register-candidates.php)
-
-Contact
-![contact](http://localhost/Placement-Portal-main/contact.php)
 
 Resources
 
@@ -71,3 +56,6 @@ Resources
 2. https://github.com/<br/>
 3. https://tailwindcss.com/<br/>
 4. https://getbootstrap.com/
+
+
+
