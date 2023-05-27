@@ -1,3 +1,4 @@
+![Resume generator (2)](https://github.com/Yashika24-U/AN-AUTOMATED-E-PLACEMENT-PORTAL/assets/97971705/93036c97-9f11-428d-a953-30120f496d2e)
 # AN AUTOMATED E-PLACEMENT PORTAL
 
 
